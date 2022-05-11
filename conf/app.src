@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/sruupl/batflat/archive/52040f71ecbda268cec09dc1b970cc2e3c1c3acf.tar.gz
+SOURCE_SUM=0ae9a28bc079f5c001ace70b7120bf496ad88b1f868088c4268964957cf694b5
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
